@@ -1,7 +1,7 @@
 /*john mueama michael 
 cosc 1437
 date 8/30/2020
-discription program that find the median in a given array */
+discription program that find the median in a given array */ //c++ 11
 
 
 #include <iostream>
